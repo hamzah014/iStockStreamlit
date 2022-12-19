@@ -1,6 +1,5 @@
 pip >=10
 flask
-fbprophet
 numpy
 flask_cors
 flask_restful
@@ -9,3 +8,4 @@ datetime
 pandas
 requests
 streamlit
+fbprophet
