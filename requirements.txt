@@ -1,13 +1,11 @@
 pip >=10
-stan
 flask
 fbprophet
+numpy
 flask_cors
 flask_restful
 yfinance
 datetime
 pandas
 requests
-numpy
-Prophet
 streamlit
