@@ -1,5 +1,5 @@
 pip
-pystan==2.19.1.1
+pystan==2.14
 flask
 fbprophet
 flask_cors
@@ -9,3 +9,4 @@ datetime
 pandas
 requests
 numpy
+Prophet
