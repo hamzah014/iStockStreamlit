@@ -654,7 +654,7 @@ ruamel-yaml-conda
 s3transfer                    
 scikit-image                  
 scikit-learn                  
-scikit-learn-intelex          2710
+scikit-learn-intelex         
 scipy                         
 Scrapy                        
 seaborn                       
