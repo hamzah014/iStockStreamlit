@@ -648,9 +648,9 @@ rich
 rope                          
 rsa                           
 Rtree                         
-ruamel.yaml                   
-ruamel.yaml.clib              
-ruamel-yaml-conda             
+# ruamel.yaml                   
+# ruamel.yaml.clib              
+# ruamel-yaml-conda             
 s3transfer                    
 scikit-image                  
 scikit-learn                  
