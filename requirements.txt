@@ -706,8 +706,8 @@ toolz
 tornado                       
 tqdm                          
 traitlets                     
-Twisted                       
-twisted-iocpsupport           
+# Twisted                       
+# twisted-iocpsupport           
 typed-ast                     
 typing_extensions             
 tzdata                        
