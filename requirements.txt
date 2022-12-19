@@ -1,5 +1,4 @@
 pip >=10
-pystan==2.19.1.1
 stan
 flask
 fbprophet
