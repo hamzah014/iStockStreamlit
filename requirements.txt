@@ -173,7 +173,7 @@ multipledispatch
 multitasking                  
 munkres                       
 mypy-extensions               
-navigator-updater             
+# navigator-updater             
 nbclassic                     
 nbclient                      
 nbconvert                     
