@@ -1,3 +1,9 @@
+# aiohttp                       ==3.8.3
+# aiosignal                     ==1.2.0
+# alabaster                     ==0.7.12
+# anaconda-client               ==1.9.0
+# anaconda-navigator            ==2.3.2
+# anaconda-project              ==0.10.2
 anyio                         ==3.5.0
 appdirs                       ==1.4.4
 argon2-cffi                   ==21.3.0
@@ -38,7 +44,7 @@ chardet                       ==4.0.0
 charset-normalizer            ==2.0.4
 click                         ==7.1.2
 cloudpickle                   ==2.0.0
-clyent                        ==1.2.2
+clyent                        
 colorama                      ==0.4.5
 colorcet                      ==2.0.6
 commonmark                    ==0.9.1
