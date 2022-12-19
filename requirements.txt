@@ -597,7 +597,7 @@ pycodestyle
 pycosat                       
 pycparser                     
 pyct                          
-pycurl                        
+# pycurl==7.44                       
 pydeck                        
 PyDispatcher                  
 pydocstyle                    
