@@ -229,7 +229,7 @@ pycodestyle
 pycosat                       
 pycparser                     
 pyct                          
-pycurl                        
+# pycurl                        
 PyDispatcher                  
 pydocstyle                    
 pyerfa                        
