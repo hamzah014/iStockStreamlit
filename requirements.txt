@@ -3,7 +3,8 @@
 # alabaster                     ==0.7.12
 # anaconda-client               ==1.9.0
 # anaconda-navigator            ==2.3.2
-# anaconda-project              ==0.10.2
+# anaconda-project              ==0.10.2                    
+pip  
 anyio                         
 appdirs                       
 argon2-cffi                   
